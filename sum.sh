@@ -3,3 +3,4 @@ a=1
 b=1
 let c=$a+$b
 printf "%d\n" $c
+d=1
